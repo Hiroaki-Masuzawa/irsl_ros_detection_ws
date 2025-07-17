@@ -1,0 +1,14 @@
+[submodule ".irsl_docker_irsl_system"]
+	path = .irsl_docker_irsl_system
+	url = https://github.com/IRSL-tut/irsl_docker_irsl_system.git
+[submodule "userdir/catkin_ws/src/irsl_ros_detection"]
+	path = userdir/catkin_ws/src/irsl_ros_detection
+	url = https://github.com/Hiroaki-Masuzawa/irsl_ros_detection.git
+[submodule "userdir/catkin_ws/src/irsl_ros_srvs"]
+	path = userdir/catkin_ws/src/irsl_ros_srvs
+	url = https://github.com/Hiroaki-Masuzawa/irsl_ros_srvs.git
+	branch = add_service
+[submodule "userdir/catkin_ws/src/irsl_ros_msgs"]
+	path = userdir/catkin_ws/src/irsl_ros_msgs
+	url = https://github.com/Hiroaki-Masuzawa/irsl_ros_msgs.git
+	branch = add_instance_segmentation_msg
